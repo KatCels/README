@@ -1,5 +1,5 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
-### Freelance fullstack iOS & Android engineer
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Katherine Camacho 👋
+### Freelance software full stack
 
 ![https://github.com/mouredev](./mouredev_github_profile.png)
 
