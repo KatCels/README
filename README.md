@@ -1,4 +1,4 @@
-# ![https://github.com/KatCels.com]([/KatCels/README/blob/main/ChatGPT_Image_23_may_2025__05_38_59_p.m.-removebg-preview.png](https://github.com/KatCels/README/blob/main/ChatGPT_Image_23_may_2025__05_38_59_p.m.-removebg-preview.png) Hola, mi nombre es Katherine Camacho 👋
+# ![https://github.com/KatCels.com]([/KatCels/README/blob/f6ac66e2ccec1b7e6eef869901b671f91554abab/Kath%20Dev.png](https://github.com/KatCels/README/blob/f6ac66e2ccec1b7e6eef869901b671f91554abab/Kath%20Dev.png) Hola, mi nombre es Katherine Camacho 👋
 ### Freelance software full stack
 
 ![https://github.com/KatCels](./README.md_Kath Dev.png)
